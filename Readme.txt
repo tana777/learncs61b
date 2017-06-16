@@ -3,3 +3,9 @@ Git is a version control system.Git is free software.I don¡¦t know if it is me
 Hello World!Love you guys!
 
 Why I want to lose weight?Because it can make me look better!
+
+The constant thing in the world is change!
+
+Git is a funny thing, right?
+
+I just create a new branch called dev.
